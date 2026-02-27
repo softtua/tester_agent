@@ -1,0 +1,6 @@
+[project]
+name = "tester-agent"
+version = "0.1.0"
+description = "Proxima Tester Agent"
+requires-python = ">=3.12"
+dependencies = []

@@ -1,0 +1,21 @@
+# JetBrains IDE
+.idea/
+*.iml
+
+# Python virtual environment
+.venv/
+venv/
+
+# Python cache and build artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+dist/
+build/
