@@ -19,3 +19,9 @@ __pycache__/
 htmlcov/
 dist/
 build/
+.env
+
+# Test artifacts
+test_recordings/
+artifacts/
+playwright-report/

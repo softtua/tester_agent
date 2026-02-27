@@ -1,0 +1,2 @@
+"""Registration tester agent package."""
+
